@@ -39,8 +39,7 @@ To demonstrate practical **data cleaning, analysis, visualization, and dashboard
 
 **Muskan Master**
 B.Tech – Computer Science & Engineering
-
-**Skills:** Excel | Power Query | SQL | Python | Power BI | Tableau | Data Analysis
+**Skills:** Excel | Power Query | SQ Data Analysis
 
 
 
