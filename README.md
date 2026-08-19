@@ -46,13 +46,5 @@ B.Tech – Computer Science & Engineering
 
 
 
-
-
-Muskan Master
-
-B.Tech – Computer Science & Engineering
-
-Aspiring Data Analyst / Data Scientist
-
 Technical Skills:
 Excel | Data Visualization
